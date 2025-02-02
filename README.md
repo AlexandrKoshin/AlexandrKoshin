@@ -1,6 +1,6 @@
-👋 Hello, my name is Alexandr Koshin. I'm from Moscow.<br>
-👀 I am passionate about frontend development of various sites, web applications, interfaces.<br>
-🌱 Currently learning JavaScript to become a frontend-developer.<br>
+👋 Hello, my name is Alexandr. I'm from Moscow.<br>
+👀 I'm learning frontend to develop websites, web applications, interfaces.<br>
+🌱 Currently studying JavaScript.<br>
 💞️ I would like to collaborate on companies that create truly useful products for people.<br>
 📫 For communication Telegram or WhatsApp.
 <!---
